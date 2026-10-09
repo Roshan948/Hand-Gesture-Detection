@@ -1,0 +1,5 @@
+# Uses the MediaPipe Tasks API, so any recent MediaPipe works
+# (the older mp.solutions API is no longer required).
+mediapipe>=0.10.30
+numpy>=1.26
+opencv-python>=4.8
